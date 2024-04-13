@@ -1,5 +1,5 @@
 body {
-  font-family: roboto; sans-serif
+  font-family: roboto; sans-serif;
   color: #434455;
   background-color: #ffff;
 }
@@ -109,7 +109,7 @@ font-size: 18px;
 line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color:#f4f4fd;
 font-family: "Raleway", sans-serif;
 }
 .accent-color {
@@ -117,7 +117,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 1.16667;
 letter-spacing: 0.03em;
-color: #4d5ae5;
+color:#4d5ae5;
 }
 
 .page-footer-text {
@@ -125,7 +125,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #f4f4fd;
+color:#f4f4fd;
 }
 
 
