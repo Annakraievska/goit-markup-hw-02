@@ -60,7 +60,7 @@ a {
   background: #2e2f42;
 }
 
-.main-titl {
+.main-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -68,7 +68,9 @@ a {
   color: #ffffff;
   text-align: center;
 }
+
 .title-buton {
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -154,7 +156,6 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 /* footer */
 
 .page-footer-title {
