@@ -50,17 +50,18 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: norma;
 }
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
 }
 /*hero   */
-.hero {
+.title {
   background-color: #2e2f42;
 }
 
-.main-title {
+.title-header {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -125,7 +126,7 @@ a {
   text-transform: capitalize;
 }
 
-.team-list-text {
+.team-profession {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -178,7 +179,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
 }
