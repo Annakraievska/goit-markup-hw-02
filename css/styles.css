@@ -44,13 +44,16 @@ a {
 .link-nav:focus {
   color: #404bbf;
 }
+
+.address {
+  font-style: norma;
+}
 .address-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: norma;
 }
 .address-link:hover,
 .address-link:focus {
@@ -112,6 +115,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
 }
 
 .team-list-item {
@@ -126,6 +131,7 @@ a {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
 }
 
 .team-profession {
