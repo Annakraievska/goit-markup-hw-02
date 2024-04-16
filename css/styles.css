@@ -57,7 +57,7 @@ a {
 }
 /*hero   */
 .hero {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .main-title {
@@ -139,6 +139,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  text-transform: capitalize;
 }
 
 .portfolio-name {
@@ -155,6 +157,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-family: "Roboto", sans-serif;
 }
 /* footer */
 
@@ -172,10 +175,13 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
 }
 .web-titl {
   color: #f4f4fd;
   line-height: 1.17;
+  font-family: "Raleway", sans-serif;
 }
 
 .page-footer-text {
@@ -184,6 +190,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  font-family: "Roboto", sans-serif;
 }
 .page-footer {
   background: #2e2f42;
